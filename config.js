@@ -1,4 +1,4 @@
 window.GROOMERGAP_CONFIG = {
-  supabaseUrl: "YOUR_SUPABASE_URL",
-  supabaseAnonKey: "YOUR_SUPABASE_ANON_KEY"
+  supabaseUrl: "https://txztupmemdjdnfnpjwjw.supabase.co",
+  supabaseAnonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR4enR1cG1lbWRqZG5mbnBqd2p3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODkwNjM3NTQsImV4cCI6MjEwNDYzOTc1NH0.KTWKAEF6pMzkDXnTsMtT2M5bcNHKxzNaUYGME6bejdA"
 };
